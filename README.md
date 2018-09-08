@@ -1,2 +1,7 @@
-# 100days_of_nodejs
-🌳种一棵树的最佳时间是十年前，和现在
+# 100DaysOfCode
+
+ϣ���ܼ��д��100��
+
+2018-9-8
+
+[x] 001. express hellowrold
