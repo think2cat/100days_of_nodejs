@@ -6,3 +6,4 @@
 
 [x] 001. express hellowrold
 [x] 002. express post request
+[x] 003. readFile
